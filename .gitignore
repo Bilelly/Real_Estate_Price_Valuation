@@ -1,0 +1,9 @@
+# Exclure le dossier data en entier
+data/
+
+# Exclure tous les fichiers CSV
+*.csv
+
+# Exclure les fichiers de modèles lourds
+*.pkl
+*.h5
